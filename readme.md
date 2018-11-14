@@ -4,11 +4,11 @@
 - Models have Relations
 - Schema / Query done in raw SQL
 
-#####To Test This:
+##### To Test This:
 
 - Provide DB Credentials
 ```sh
-$ cd tm-phppdoapi-yt/config
+$ cd tm-php-pdo-api-yt/config
 ```
 
 ##### Update Database.php accordingly
@@ -28,7 +28,7 @@ $ cd tm-phppdoapi-yt/config
 
 ##### Run App
 ```
-$ cd tm-phppdoapi-yt
+$ cd tm-php-pdo-api-yt
 $ php -S localhost:5000
 ```
 
